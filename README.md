@@ -1,2 +1,2 @@
 # Keylogger
-C++ based Keylogging software
+C++ based Keylogging software.
