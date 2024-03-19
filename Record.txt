@@ -1,3 +1,6 @@
 hi hello how are you<ENTER><ENTER>n%<BACKSPACE>'''r
 
 https://levelup.gitconnected.com/what-is-ffi-foreign-function-interface-an-intuitive-explanation-7327444e347a
+
+
+https://www.libsdl.org/
