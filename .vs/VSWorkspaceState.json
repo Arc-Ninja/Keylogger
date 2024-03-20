@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Server"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Server\\tools",
   "PreviewInSolutionExplorer": false
 }
