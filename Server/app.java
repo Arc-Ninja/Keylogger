@@ -1,8 +1,8 @@
 import java.io.*;
 import java.net.*;
-import Server.tools.*;
+import MyServer.tools.*;
 public class app{
     public static void main(String[] args) {
-        Server server = new Server(6666);
+        MyServer server = new MyServer(6666);
     }
 }
